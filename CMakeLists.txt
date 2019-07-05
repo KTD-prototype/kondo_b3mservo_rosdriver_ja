@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(kondo_b3mservo_rosdriver)
+project(kondo_b3mservo_rosdriver_ja)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>kondo_b3mservo_rosdriver</name>
+  <name>kondo_b3mservo_rosdriver_ja</name>
   <version>0.0.0</version>
   <description>The kondo_b3mservo_rosdriver package</description>
 
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <url type="website">https://github.com/k24koba/kondo_b3mservo_rosdriver</url>
+  <url type="website">https://github.com/k24koba/kondo_b3mservo_rosdriver_ja</url>
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
@@ -55,7 +55,7 @@
   <build_export_depend>rospy</build_export_depend>
   <build_export_depend>std_msgs</build_export_depend>
   <exec_depend>rospy</exec_depend>
-  <exec_depend>std_msgs</exec_depend> 
+  <exec_depend>std_msgs</exec_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
